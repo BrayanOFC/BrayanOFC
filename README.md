@@ -1,16 +1,52 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy BrayanOFC
 
-<!--
-**BrayanOFC/BrayanOFC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧠 Desarrollador de Bots para WhatsApp | Full Stack Jr. | JavaScript & Python Lover
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mí
+
+Soy un desarrollador apasionado por la automatización y la creación de soluciones prácticas mediante bots de WhatsApp. Tengo experiencia en la creación, despliegue y mantenimiento de bots inteligentes utilizando tecnologías como **JavaScript (Node.js)** y **Python**. Me dedico a construir sistemas que ayudan a empresas y emprendedores a optimizar su atención al cliente, ventas y soporte técnico.
+
+- 🔧 Especialista en automatización con WhatsApp API y Webhooks.
+- 💬 Experiencia con librerías como **Baileys**, **Venom**, **whatsapp-web.js** y **pywhatkit**.
+- 🌐 También tengo habilidades en manejo de servidores, despliegue en la nube, y administración de bases de datos (MongoDB / Firebase).
+
+---
+
+## 🛠️ Tecnologías que uso
+
+- **Lenguajes:** JavaScript, Python
+- **Frameworks/Bibliotecas:** Node.js, Express.js, whatsapp-web.js, Baileys, Flask
+- **Base de Datos:** MongoDB, Firebase
+- **Otros:** Git, Docker, Heroku, Vercel
+
+---
+
+## 📞 ¿Te interesa trabajar conmigo?
+
+Estoy disponible para colaborar en **proyectos freelance, automatización de negocios, desarrollo de bots personalizados** y mucho más.
+
+**📲 Contáctame directamente a mi WhatsApp:**  
+📞 +52 663 390 0512
+
+O visita mi perfil para ver algunos de mis proyectos 👇
+
+---
+
+## 📂 Proyectos Destacados
+
+- 🤖 Bot de ventas automatizado con catálogo interactivo.
+- 🛠️ Sistema de soporte técnico 24/7 vía WhatsApp.
+- 🔄 Integración con APIs externas (Google Sheets, CRMs, etc.).
+
+---
+
+## 📈 Estadísticas de GitHub
+
+![BrayanOFC's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrayanOFC&show_icons=true&theme=radical)
+
+---
+
+Gracias por visitar mi perfil 🚀  
+¡Estoy listo para colaborar contigo!
